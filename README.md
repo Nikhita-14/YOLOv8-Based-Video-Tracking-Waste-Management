@@ -69,6 +69,5 @@ MIT License — feel free to use and modify.
 
 **Nikhita**  
 GitHub: [@Nikhita-14](https://github.com/Nikhita-14)
-└── assets/ # (Optional) Images, videos, or sample outputs
-## 📁 Project Structure
+
 
