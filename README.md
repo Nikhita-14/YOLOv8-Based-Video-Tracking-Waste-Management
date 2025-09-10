@@ -43,7 +43,7 @@ To install YOLOv8, run: bash```pip install ultralytics```
 
 ---
 ## 📁 Project Structure
-graph```
+```
 streamlit-detection-tracking/
 ├── app.py # Main Streamlit application
 ├── yolov8_utils.py # Helper functions for YOLOv8
