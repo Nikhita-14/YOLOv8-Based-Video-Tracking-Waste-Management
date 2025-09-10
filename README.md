@@ -18,7 +18,7 @@ This project is a web-based application built using Streamlit that performs **re
 ## 🛠️ Setup Instructions
 
 1. **Clone the repository**  
-   Visit: https://github.com/Nikhita-14/streamlit-detection-tracking
+   Visit: [https://github.com/Nikhita-14/streamlit-detection-tracking](https://github.com/Nikhita-14/YOLOv8-Based-Video-Tracking-Waste-Management)
 
 2. **(Optional) Create a virtual environment**  
    Use `python -m venv venv` and activate it.
