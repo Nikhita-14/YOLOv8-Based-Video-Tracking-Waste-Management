@@ -69,5 +69,3 @@ MIT License — feel free to use and modify.
 
 **Nikhita**  
 GitHub: [@Nikhita-14](https://github.com/Nikhita-14)
-
-
